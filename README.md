@@ -17,7 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" title="Django REST Framework" alt="Django REST Framework" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://fastapi.tiangolo.com/img/icon.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIj48cGF0aCBkPSJNMjAgMEM4Ljk1IDAgMCA4Ljk1IDAgMjBzOC45NSAyMCAyMCAyMCAyMC04Ljk1IDIwLTIwUzMxLjA1IDAgMjAgMHptMTEuNzUgMTUuNjI1YzAgMi4xMjUtMS42MjUgMy44NzUtMy43NSAzLjg3NWgtMi41djMuNzVoLTIuNXYtMy43NWgtMi41Yy0yLjEyNSAwLTMuNzUtMS43NS0zLjc1LTMuODc1czEuNjI1LTMuODc1IDMuNzUtMy44NzVoNy41YzIuMTI1IDAgMy43NSAxLjc1IDMuNzUgMy44NzV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"  title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
