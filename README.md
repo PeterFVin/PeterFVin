@@ -14,6 +14,7 @@
 ### &#128736; My languages and skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" title="Django REST Framework" alt="Django REST Framework" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
@@ -29,6 +30,7 @@
 ### &#128737; My projects:
 - [Desktop program for document flow automatization](https://github.com/PeterFVin/certification)
 - [Charity fund collecting donations for various projects](https://github.com/PeterFVin/QRkot_spreadsheets)
+- [Golang parser - documents update](https://github.com/PeterFVin/GOST_update)
 - [Link shortening service](https://github.com/PeterFVin/yacut)
 - [Multifunctional parser on beautifulsoup4](https://github.com/PeterFVin/bs4_parser_pep)
 - [Foodgram - food assistant](https://github.com/PeterFVin/foodgram-project-react)
